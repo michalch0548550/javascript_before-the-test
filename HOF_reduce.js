@@ -32,7 +32,7 @@ function findMax() {
 
     console.log(max); // התוצאה צריכה להיות 20
 }
-
+console.log("הי שמי רבקה בראשי")
 
 
 
